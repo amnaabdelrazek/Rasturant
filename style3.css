@@ -1,0 +1,74 @@
+body{
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+.title{
+    background-color: #364553;
+    text-align: center;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+.our{
+    background-color: #364553;
+    font-size: xx-large;
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 45%;
+}
+.food1{
+    background-color: #364553;
+    font-size: x-large;
+    margin-bottom: 5vw;
+    padding-bottom: 5vw;
+    border-radius: 5%;
+}
+img{
+    margin-top: 3vw;
+  margin-left: 16vw;
+  border-radius: 5%;
+}
+.food2{
+    background-color: #364553;
+    font-size: x-large;
+    margin-bottom: 5vw;
+    padding-bottom: 5vw;
+    border-radius: 5%;
+}
+.food3{
+    background-color: #364553;
+    font-size: x-large;
+    margin-bottom: 5vw;
+    padding-bottom: 5vw;
+    border-radius: 5%;
+}
+.food4{
+    background-color: #364553;
+    font-size: x-large;
+    margin-bottom: 5vw;
+    padding-bottom: 5vw;
+    border-radius: 5%;
+}
+.food5{
+    background-color: #364553;
+    font-size: x-large;
+    margin-bottom: 5vw;
+    padding-bottom: 5vw;
+    border-radius: 5%;
+}
+form{
+    width: 60%;
+    margin: auto;
+    background-color: #364553;
+    border-radius: 10px;
+    text-align: center;
+  }
+  .sub{
+    background-color: #364553;
+    color: white;
+    border-radius: 10%;
+  }
+  h3{
+    text-align: center;
+    padding-top: 3vw;
+  }
